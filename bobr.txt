@@ -1,5 +1,4 @@
-bobr try to change git file
-change after add . fisrt time
+
 git checkout
 after placing to Github remootly 
 change happen))))

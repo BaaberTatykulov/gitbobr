@@ -1,2 +1,6 @@
 che nado
+<<<<<<< HEAD
 Nurkyz changed
+=======
+bobr change
+>>>>>>> 73c39fc10630ea0ce3279ac4c897a56f5ad098c1
