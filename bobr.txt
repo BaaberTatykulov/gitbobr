@@ -1,4 +1,3 @@
-
 git checkout
 after placing to Github remootly 
 change happen))))
